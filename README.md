@@ -1,6 +1,6 @@
 # Efeitos Gráficos com FreeGLUT no Code::Blocks
 
-Este repositório reúne um conjunto de efeitos gráficos desenvolvidos em C utilizando a biblioteca FreeGLUT, com o ambiente de desenvolvimento Code::Blocks.
+Este repositório reúne um conjunto de efeitos gráficos desenvolvidos em C/C++ utilizando a biblioteca FreeGLUT, com o ambiente de desenvolvimento Code::Blocks.
 
 O objetivo do projeto é explorar conceitos básicos de computação gráfica, animação, renderização em tempo real e manipulação de elementos visuais usando OpenGL e FreeGLUT.
 
